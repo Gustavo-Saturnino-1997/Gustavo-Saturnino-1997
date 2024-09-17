@@ -1,49 +1,28 @@
-# 👋 Olá, Eu sou **Gustavo Saturnino**!
+👋 Olá, Eu sou Gustavo Saturnino!
+💻 Em transição de carreira de Físico para Desenvolvedor 🌟
+🚀 Quem sou eu?
+Sou um apaixonado por tecnologia que decidiu fazer a transição da Física para o Desenvolvimento Web. Atualmente estou no 7º período de Física e no 2º semestre de Análise e Desenvolvimento de Sistemas. Além disso, faço aulas de Conversação em Inglês e estudo Álgebra Linear para entender conceitos avançados de Inteligência Artificial.
 
-### 💻 **Em transição de carreira** de Físico para o Desenvolvedor 🌟
+Com uma sólida base em Física, trago uma abordagem analítica e detalhista para o desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meu conhecimento. Meu objetivo é me tornar um desenvolvedor versátil, oferecendo soluções práticas e eficientes enquanto mantenho uma excelente colaboração com minha equipe.
+
+🔧 Habilidades Técnicas
+Linguagens:
+Ferramentas:
+Frameworks e Bibliotecas: React, Node.js
+Banco de Dados: SQL, NoSQL
+📈 Estatísticas do GitHub
 
 
-## 🚀 **Quem sou eu?**
 
-Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a área de Desenvolvimento Web. Atualmente estou no **7º período de Física** no 2º semestre de **Análise e Desenvolvimento de Sistemas**, faço aulas de **Conversação em inglês** e estudo **álgebra linear para entender conceitos sobre AI**.
+🌱 O que estou estudando agora
+Desenvolvimento Web com foco em JavaScript, React e Node.js 🖥️
+Banco de Dados: SQL e NoSQL
+Inteligência Artificial: Conceitos básicos e suas aplicações
+📫 Vamos nos conectar!
+LinkedIn: Gustavo Saturnino
+GitHub: Gustavo Saturnino
+Email: gustavo.saturnino@example.com
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="400"/> </p>
+"Programar não é apenas escrever código, é criar soluções reais para o mundo." - Gustavo Saturnino
 
-**Estou aempre em busca de novos desafios**, estou mergulhando em tecnologias como **JavaScript**, **React**, **Node.js**, além de aplicar cada conceito estudado. Meu objetivo é me tornar um desenvolvedor versátil e que entregar soluções práticas e eficientes, tendo sempre uma boa relação com a equipe.
 
----
-
-## 🔧 **Habilidades Técnicas**
-
-- **Linguagens**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-- **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-lightgray)
-- 
----
-
-## 📈 **Estatísticas do GitHub**
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Saturnino-1997&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Saturnino-1997&layout=compact&theme=radical)
-
----
-
-## 🌱 **O que estou estudando agora**
-
-- **Desenvolvimento Web e AI** com foco em **JavaScript**, **React** e **Node.js** 🖥️
-- **Banco de Dados**: SQL e NoSQL
-
----
-
-## 📫 **Vamos nos conectar!**
-
-- **LinkedIn**: [Gustavo Saturnino](https://www.linkedin.com/in/gustavo-saturnino/)
-- **GitHub**: [Gustavo Saturnino](https://github.com/Gustavo-Saturnino-1997)
-- **Email**: [gustavo.saturnino@example.com](mailto:gustavo.saturnino@example.com)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="400"/>
-</p>
-
----
-
-> _"Programar não é apenas escrever código, é criar soluções reais para o mundo."_ - **Gustavo Saturnino**
