@@ -1,9 +1,9 @@
 # 👋 Olá, Eu sou **Gustavo Saturnino**!
 
-### 💻 **Desenvolvedor em transição** de Física para o Mundo da Programação 🌟
+### 💻 **Em transição de carreira** de Físico para o Desenvolvedor 🌟
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" width="600"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" width="400" height="400/>
 </p>
 
 ---
