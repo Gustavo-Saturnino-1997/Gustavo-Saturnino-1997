@@ -5,7 +5,7 @@
 
 ## 🚀 **Quem sou eu?**
 
-Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a área de Desenvolvimento Web. Atualmente estou no **7º período de Física** e no 2º semestre de **Análise e Desenvolvimento de Sistemas**, faço aulas de  **Conversação em inglês** e estudo **álgebra linear para entender conceitos sobre AI**.
+Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a área de Desenvolvimento Web. Atualmente estou no **7º período de Física** no 2º semestre de **Análise e Desenvolvimento de Sistemas**, faço aulas de **Conversação em inglês** e estudo **álgebra linear para entender conceitos sobre AI**.
 
 **Estou aempre em busca de novos desafios**, estou mergulhando em tecnologias como **JavaScript**, **React**, **Node.js**, além de aplicar cada conceito estudado. Meu objetivo é me tornar um desenvolvedor versátil e que entregar soluções práticas e eficientes, tendo sempre uma boa relação com a equipe.
 
@@ -14,7 +14,7 @@ Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a áre
 ## 🔧 **Habilidades Técnicas**
 
 - **Linguagens**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-- **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-lightgray) ![PowerApps](https://img.shields.io/badge/-Microsoft_PowerApps-purple)
+- **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-lightgray)
 - 
 ---
 
@@ -27,7 +27,7 @@ Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a áre
 
 ## 🌱 **O que estou estudando agora**
 
-- **Desenvolvimento Full Stack** com foco em **JavaScript**, **React** e **Node.js** 🖥️
+- **Desenvolvimento Web e AI** com foco em **JavaScript**, **React** e **Node.js** 🖥️
 - **Banco de Dados**: SQL e NoSQL
 
 ---
