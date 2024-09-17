@@ -36,7 +36,7 @@ Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a áre
 
 - **LinkedIn**: [Gustavo Saturnino](https://www.linkedin.com/in/gustavo-araujo-31a515250)
 - **GitHub**: [Gustavo Saturnino](https://github.com/Gustavo-Saturnino-1997)
-- **Email**: [gustavo.saturnino@example.com](mailto:gustavo.saturnino@example.com)
+- **Email**: [guguh.araujo@hotmail.com](mailto:guguh.araujo@hotmail.com)
 
 ---
 
