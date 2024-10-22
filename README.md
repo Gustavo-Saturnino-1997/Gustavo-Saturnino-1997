@@ -5,9 +5,9 @@
 
 ## 🚀 **Quem sou eu?**
 
-Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a área de Desenvolvimento Web. Atualmente estou no **7º período de Física** no 2º semestre de **Análise e Desenvolvimento de Sistemas**, faço aulas de **Conversação em inglês** e estudo **álgebra linear para entender conceitos sobre AI**.
+Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a área de Desenvolvimento Web. Atualmente estou no **7º semestre de Física** e no **2º semestre de Análise e Desenvolvimento de Sistemas**, faço aulas de **Conversação em inglês** e estudo **álgebra linear para entender conceitos sobre AI**.
 
-**Sempre em busca de novos desafios**, estou sempre estudando novas tecnologias, além de aplicar cada conceito aprendido. Meu objetivo é me tornar um desenvolvedor versátil e que entregar soluções práticas e eficientes, tendo sempre uma boa relação com a equipe.
+**Sempre em busca de novos desafios**, estou sempre estudando novas tecnologias, além de aplicar cada conceito aprendidos a cadaa dia de estudo. Meu objetivo é me tornar um desenvolvedor versátil e que entrega soluções práticas e eficientes, tendo sempre uma boa relação com a equipe.
 
 ---
 
