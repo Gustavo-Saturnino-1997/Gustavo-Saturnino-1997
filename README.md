@@ -1,13 +1,13 @@
 👋 Olá, Eu sou **Gustavo Saturnino**!
 
-### 💻 **Em transição de carreira** de Físico para o Desenvolvedor 🌟
+### 💻 **Em transição de carreira** de Físico para Desenvolvedor Web 🌟
 
 
 ## 🚀 **Quem sou eu?**
 
-Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a área de Desenvolvimento Web. Atualmente estou no **7º semestre de Física** e no **2º semestre de Análise e Desenvolvimento de Sistemas**, faço aulas de **Conversação em inglês** e estudo **álgebra linear para entender conceitos sobre AI**.
+Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a área de Desenvolvimento Web. Atualmente estou no **7º semestre de Física** e no **3º semestre de Análise e Desenvolvimento de Sistemas**.
 
-**Sempre em busca de novos desafios**, estou sempre estudando novas tecnologias, além de aplicar cada conceito aprendidos a cadaa dia de estudo. Meu objetivo é me tornar um desenvolvedor versátil e que entrega soluções práticas e eficientes, tendo sempre uma boa relação com a equipe.
+**Sempre em busca de novos desafios**, estou sempre estudando novas tecnologias, além de aplicar cada conceito aprendido a cada dia de estudo. Meu objetivo é me tornar um desenvolvedor versátil e que entrega soluções práticas e eficientes.
 
 ---
 
