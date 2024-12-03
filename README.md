@@ -1,6 +1,6 @@
 👋 Olá, Eu sou **Gustavo Saturnino**!
 
-### 💻 **Construindo minha carreira** Desenvolvedor Web 🌟
+### 💻 **Construindo minha carreira** como Desenvolvedor Web 🌟
 
 
 ## 🚀 **Quem sou eu?**
