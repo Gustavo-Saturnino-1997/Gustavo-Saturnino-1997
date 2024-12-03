@@ -1,13 +1,12 @@
 👋 Olá, Eu sou **Gustavo Saturnino**!
 
-### 💻 **Em transição de carreira** de Físico para Desenvolvedor Web 🌟
+### 💻 **Construindo minha carreira** Desenvolvedor Web 🌟
 
 
 ## 🚀 **Quem sou eu?**
 
-Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a área de Desenvolvimento Web. Atualmente estou no **7º semestre de Física** e no **3º semestre de Análise e Desenvolvimento de Sistemas**.
+Olá, sou Gustavo Saturnino, desenvolvedor em formação com experiência prática em atendimento, logística e liderança. Estou no 2º semestre de Análise e Desenvolvimento de Sistemas e me especializando em desenvolvimento FullStack com JavaScript. Minha paixão por programação e habilidade em resolver problemas impulsionam a contrução da minha carreira na área de tecnologia, onde busco criar soluções eficientes e inovadoras.
 
-**Sempre em busca de novos desafios**, estou sempre estudando novas tecnologias, além de aplicar cada conceito aprendido a cada dia de estudo. Meu objetivo é me tornar um desenvolvedor versátil e que entrega soluções práticas e eficientes.
 
 ---
 
@@ -27,8 +26,7 @@ Sou um apaixonado por tecnologia que decidiu dar um salto da Física para a áre
 
 ## 🌱 **O que estou estudando agora**
 
-- **Desenvolvimento Web e AI** com foco em **JavaScript**, **React** e **Node.js** 🖥️
-- **Banco de Dados**: SQL e NoSQL
+- **Desenvolvimento Web** com foco em **JavaScript**, **Html** e **CSS** 🖥️
 
 ---
 
