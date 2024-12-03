@@ -14,7 +14,6 @@ Olá, sou Gustavo Saturnino, desenvolvedor em formação com experiência práti
 
 - **Linguagens**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
 - **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-lightgray)
-- 
 ---
 
 ## 📈 **Estatísticas do GitHub**
