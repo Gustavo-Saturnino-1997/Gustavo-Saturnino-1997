@@ -5,7 +5,7 @@
 
 ## 🚀 **Quem sou eu?**
 
-Olá, sou Gustavo Saturnino, desenvolvedor em formação com experiência prática em atendimento, logística e liderança. Estou no 2º semestre de Análise e Desenvolvimento de Sistemas e me especializando em desenvolvimento FullStack com JavaScript. Minha paixão por programação e habilidade em resolver problemas impulsionam a contrução da minha carreira na área de tecnologia, onde busco criar soluções eficientes e inovadoras.
+Olá, sou Gustavo Saturnino, desenvolvedor em formação com experiência prática em atendimento, logística e liderança. Estou no 2º semestre de Análise e Desenvolvimento de Sistemas e me especializando em desenvolvimento FullStack com JavaScript. Minha paixão por programação e habilidade em resolver problemas impulsionam a construção da minha carreira na área de tecnologia, onde busco criar soluções eficientes e inovadoras.
 
 
 ---
