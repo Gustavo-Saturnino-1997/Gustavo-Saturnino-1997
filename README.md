@@ -1,32 +1,37 @@
 👋 Olá, Eu sou **Gustavo Saturnino**!
 
-### 💻 **Construindo minha carreira** como Desenvolvedor Web 🌟
+### 💻 **Estou construindo minha carreira** na área de Desenvolvimento Web 🌟
 
 
-## 🚀 **Quem sou eu?**
+## 🚀 **Sobre Mim**
 
-Olá, sou Gustavo Saturnino, desenvolvedor em formação com experiência prática em atendimento, logística e liderança. Estou no 2º semestre de Análise e Desenvolvimento de Sistemas e me especializando em desenvolvimento FullStack com JavaScript. Minha paixão por programação e habilidade em resolver problemas impulsionam a construção da minha carreira na área de tecnologia, onde busco criar soluções eficientes e inovadoras.
-
+Olá, Me chamo Gustavo Saturnino, trabalho na área de restaurante á muitos anos e estou em transição de carreira, atualmente sou um desenvolvedor em formação com um ampla experiência com atendimento ao cliente, Recursos Humanos, E-commerce e Gestão de Pessoas. Estou no 3º semestre de Análise e Desenvolvimento de Sistemas e me especializando em Desenvolvimento Web. Minha vontade de construir uma carreira na área de Desenvolvimento e minhas habilidade em resolver problemas me impulsionam á estudar todos os dias e construir com consistência minha marca. 
 
 ---
 
 ## 🔧 **Habilidades Técnicas**
 
-- **Linguagens**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-- **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-lightgray)
+- **Tecnologias**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+-  ![HTML5](https://img.shields.io/badge/-HTML5-orange)
+-  ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+
+- 
+- **Ferramentas**: -
+- ![Git](https://img.shields.io/badge/-Git-black)
+- ![GitHub](https://img.shields.io/badge/-GitHub-lightgray)
 ---
 
 ## 📈 **Estatísticas do GitHub**
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Saturnino-1997&show_icons=true&theme=radical)  
+
+## Linguagens Mais Usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Saturnino-1997&layout=compact&theme=radical)
 
 ---
 
 ## 🌱 **O que estou estudando agora**
 
-- **Desenvolvimento Web** com foco em **JavaScript**, **Html** e **CSS** 🖥️
-
+- **Desenvolvimento Front-end** colocando em prático meus estudos em **JavaScript**, **Html** e **CSS** 🖥️
 ---
 
 ## 📫 **Vamos nos conectar!**
@@ -34,6 +39,7 @@ Olá, sou Gustavo Saturnino, desenvolvedor em formação com experiência práti
 - **LinkedIn**: [Gustavo Saturnino](https://www.linkedin.com/in/gustavo-araujo-31a515250)
 - **GitHub**: [Gustavo Saturnino](https://github.com/Gustavo-Saturnino-1997)
 - **Email**: [guguh.araujo@hotmail.com](mailto:guguh.araujo@hotmail.com)
+- **WhatsApp**: [Entre em contato](https://wa.me/5561999911234)
 
 ---
 
@@ -42,5 +48,4 @@ Olá, sou Gustavo Saturnino, desenvolvedor em formação com experiência práti
 </p>
 
 ---
-
-> _"Programar não é apenas escrever código, é criar soluções reais para o mundo."_ - **Gustavo Saturnino** 
+> _"Cada passo, estudo, pesquisa, linha de código, bug, solução... Cada momento em que quebro a cabeça buscando uma solução é mais um avanço nos meus estudos. Mas o mais importante é saber. Saber como aplicar a solução, pensar em cada passo, no fluxo do código. É isso que torna a programação tão desafiadora e fascinante: exige não apenas consistência, mas, muitas vezes, insistência."_ - **Gustavo Saturnino** 
