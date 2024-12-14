@@ -2,7 +2,6 @@
 
 ### 💻 **Estou construindo minha carreira** na área de Desenvolvimento Web 🌟
 
-
 ## 🚀 **Sobre Mim**
 
 Olá, Me chamo Gustavo Saturnino, trabalho na área de restaurante á muitos anos e estou em transição de carreira, atualmente sou um desenvolvedor em formação com um ampla experiência com Atendimento ao Cliente, Recursos Humanos, E-commerce e Gestão de Pessoas. Estou no 3º semestre de Análise e Desenvolvimento de Sistemas. Minha vontade de construir uma carreira na área de Desenvolvimento e minhas habilidade em resolver problemas me fazem estudar todos os dias para assim, construir com consistência minha marca. 
@@ -11,8 +10,8 @@ Olá, Me chamo Gustavo Saturnino, trabalho na área de restaurante á muitos ano
 
 ## 🔧 **Habilidades Técnicas**
 
-- **Tecnologias**:![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-- **Ferramentas**:![Git](https://img.shields.io/badge/-Git-black)![GitHub](https://img.shields.io/badge/-GitHub-lightgray)
+- **Tecnologias**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+- **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-lightgray)
 ---
 
 ## 📈 **Estatísticas do GitHub**
@@ -25,7 +24,7 @@ Olá, Me chamo Gustavo Saturnino, trabalho na área de restaurante á muitos ano
 
 ## 🌱 **O que estou estudando agora**
 
-- **Desenvolvimento Front-end** colocando em prático meus estudos em **JavaScript**, **Html** e **CSS** 🖥️
+- **Desenvolvimento Front-end** com **JavaScript**, **Html** e **CSS** 🖥️
 ---
 
 ## 📫 **Vamos nos conectar!**
