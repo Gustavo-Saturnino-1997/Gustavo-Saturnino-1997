@@ -42,4 +42,4 @@ Olá, Me chamo Gustavo Saturnino, trabalho na área de restaurante á muitos ano
 </p>
 
 ---
-> _"Cada passo, estudo, pesquisa, linha de código, bug, solução... Cada momento em que quebro a cabeça buscando uma solução é mais um avanço nos meus estudos. Mas o mais importante é saber. Saber como aplicar a solução, pensar em cada passo, no fluxo do código. É isso que torna a programação tão desafiadora e fascinante: exige não apenas consistência, mas, muitas vezes, insistência."_ - **Gustavo Saturnino** 
+> _"Cada passo, estudo, pesquisa, linha de código, bug, solução... cada momento em que quebro a cabeça buscando uma solução é um avanço á mais em meus estudos e o mais importante é saber como aplicar a solução, pensar em cada passo, no fluxo do código, na estruturada de dados. É isso que torna a programação tão desafiadora e fascinante: exige não apenas consistência, mas, muitas vezes, insistência."_ - **Gustavo Saturnino** 
