@@ -14,12 +14,6 @@ Olá, sou Gustavo Saturnino, desenvolvedor em formação com experiência práti
 - **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-lightgray)
 ---
 
-## 📈 **Estatísticas do GitHub**
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Saturnino-1997&show_icons=true&theme=radical)  
-
-## Linguagens Mais Usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Saturnino-1997&layout=compact&theme=radical)
-
 ---
 
 ## 🌱 **O que estou estudando agora**
