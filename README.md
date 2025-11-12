@@ -4,7 +4,7 @@
 
 ## 🚀 **Sobre Mim**
 
-Olá, Me chamo Gustavo Saturnino, trabalho na área de restaurante á muitos anos e estou em transição de carreira, atualmente sou um desenvolvedor em formação com um ampla experiência com Atendimento ao Cliente, Recursos Humanos, E-commerce e Gestão de Pessoas. Estou indo para o 4º semestre de Análise e Desenvolvimento de Sistemas. Minha vontade de construir uma carreira na área de Desenvolvimento e minhas habilidade em resolver problemas me fazem estudar todos os dias para assim, construir com consistência minha marca. 
+Olá, sou Gustavo Saturnino, desenvolvedor em formação com experiência prática em atendimento, logística e liderança. Estou no 4° semestre de Análise e Desenvolvimento de Sistemas. Atualmente trabalho como Garçom Bilíngue em um Hotel, e me dedico á programação, faço projetos free-lancer e procuro me aprimorar mais á cada dia.
 
 ---
 
